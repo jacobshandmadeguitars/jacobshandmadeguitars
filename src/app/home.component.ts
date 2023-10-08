@@ -33,8 +33,8 @@ import { LinkButtonComponent } from './link-button.component'
         <details>
           <summary>About Miami Luthier George Jacobs</summary>
           <p>
-            Greetings! I'm George Jacobs, a skilled guitar craftsman based in sunny Miami, Florida.
-            With a passion for playing and an unrelenting pursuit of the perfect tone, I pour my
+            I am George Jacobs, a skilled guitar craftsman based out of Miami, Florida.
+            I have a passion for playing and an unrelenting pursuit for the perfect tone, I pour my
             heart and expertise into crafting exceptional guitars that far surpass those you'd find
             at generic stores. The best part? My premium guitars come at a fraction of the cost
             you'd expect elsewhere.
